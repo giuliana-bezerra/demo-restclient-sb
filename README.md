@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/static/v1?label=Tipo&message=Demo&color=8257E5&labelColor=000000" alt="Demo" />
 </p>
 
-Esta é uma demo apresentada [nesse vídeo]() que demonstra como usar o novo RestClient do Spring Boot 3.2. Foi utiliza uma [API externa](https://crudcrud.com) para fazer as chamadas http. 
+Esta é uma demo apresentada [nesse vídeo](https://youtu.be/T_kwWiyJjxE) que demonstra como usar o novo RestClient do Spring Boot 3.2. Foi utiliza uma [API externa](https://crudcrud.com) para fazer as chamadas http. 
 
 ## Tecnologias
 
